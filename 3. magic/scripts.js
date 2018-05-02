@@ -117,7 +117,7 @@ $(document).ready(function() {
  then change the class in js like this (in this case, the effect is magic), more effects, refer to the original author's code from line
  106-->123*/
 
-/*$('.magic ').click(function(){
+/*$('.magic ').on('click',function(){
 
 	$("#testbox").addClass('magictime magic');
 });*/
